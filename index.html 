@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>林物流店 | 遠賀郡・宗像市エリアの不用品回収</title>
+    <style>
+        body {
+            font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h1 {
+            font-size: 24px;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        .hero {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .cta-btn {
+            display: inline-block;
+            background-color: #d9534f;
+            color: white;
+            text-decoration: none;
+            padding: 15px 30px;
+            border-radius: 50px;
+            font-weight: bold;
+            font-size: 18px;
+            margin-top: 15px;
+            width: 100%;
+            text-align: center;
+        }
+        .section-title {
+            border-left: 5px solid #2c3e50;
+            padding-left: 10px;
+            font-size: 20px;
+            margin: 30px 0 15px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .highlight-box {
+            background-color: #eef7ff;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+        .footer {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 14px;
+            color: #666;
+        }
+        .price-tag {
+            font-weight: bold;
+            color: #d9534f;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>引っ越しや片付けの<br>不用品回収は「林物流店」へ</h1>
+        <p>遠賀郡・宗像市・八幡西区・宮若市エリア対応</p>
+    </div>
+
+    <div class="hero">
+        <h2>こんなお悩みはありませんか？</h2>
+        <ul>
+            <li>引っ越しで大量の不用品が出た</li>
+            <li>大きな家具や家電を処分したい</li>
+            <li>実家の片付けを手伝いたい</li>
+            <li>どこに頼めばいいかわからない</li>
+            <li>できるだけ安く処分したい</li>
+        </ul>
+        <a href="tel:0932316592" class="cta-btn">☎ 093-231-6592</a>
+        <p style="text-align:center; margin-top:10px; font-size:14px;">営業時間：8:00〜18:00（受け取り時間も相談可）</p>
+    </div>
+
+    <div class="highlight-box">
+        <strong>お見積もり無料 / 買取もOK</strong><br>
+        不用品がお金に変わる可能性もあります。<br>
+        <small>福岡県公安委員会認可（古物商許可 第903011510017号）</small>
+    </div>
+
+    <h3 class="section-title">林物流店が選ばれる理由</h3>
+    <ul>
+        <li><strong>オーナーが直接お伺いします</strong><br>大手のように担当者が毎回変わることがありません。</li>
+        <li><strong>一貫対応でお得</strong><br>お見積もりから回収まで一貫対応。中間マージンがないため低価格を実現。</li>
+        <li><strong>安心の認可取得済み</strong><br>福岡県公安委員会認可（古物商許可）を取得しています。</li>
+        <li><strong>小回りが利く</strong><br>狭い道や住宅街にも対応可能です。</li>
+        <li><strong>少量でも大歓迎</strong><br>「これだけで頼んでいいの？」という程度のご依頼も喜んでお引き受けします。</li>
+    </ul>
+
+    <h3 class="section-title">回収できるもの・料金目安</h3>
+    <p>テレビ・冷蔵庫・洗濯機などの家電、ソファー・タンス等の大型家具など、幅広く対応いたします。</p>
+    <p class="price-tag">軽トラ1台分まで 12,000円（目安）</p>
+    <p style="font-size:12px;">※詳細な料金は現地での無料お見積もり時に詳しくお伝えします。</p>
+
+    <h3 class="section-title">ご利用の流れ</h3>
+    <ol>
+        <li>お電話でお問い合わせ</li>
+        <li>無料でお見積もり</li>
+        <li>ご納得いただければ回収・買取</li>
+    </ol>
+
+    <div class="footer">
+        <p>対応エリア：遠賀郡・宗像市・八幡西区・宮若市を中心としたエリア</p>
+        <p>※軽トラック1台のため、1回に積める量には限りがあります。<br>大型家具（タンス・ベッド等）はサイズによってはご対応が難しい場合があります。</p>
+        <p style="margin-top: 20px;"><strong>まずはお気軽にご相談ください。</strong></p>
+        <a href="tel:0932316592" style="color:#d9534f; font-weight:bold;">093-231-6592</a>
+    </div>
+
+</body>
+</html>
